@@ -1,0 +1,26 @@
+/* General body styles */
+body {
+    background-color: #fcf5e7;
+    color: #494949;
+    font-family: 'Tahoma', 'Roboto', 'Futura', sans-serif;
+}
+
+/* h1 styles */
+h1 {
+    text-shadow:2px 5p #1b3652;
+    background-color: #145DA0;
+    color: #fcf5e7;
+    font-family: 'Baskerville', 'Courier', 'Garamond', serif;
+}
+
+/* h2 styles */
+h2 {
+    text-shadow:2px 5p #1b3652;
+    background-color: #145DA0;
+    color: #fcf5e7;
+    font-family: 'Baskerville', 'Courier', 'Garamond', serif;
+}
+
+hr {
+    color: #1b3652;
+}
