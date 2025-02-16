@@ -1,3 +1,4 @@
+
 /* General body styles */
 body {
     background-color: #fcf5e7;
@@ -7,7 +8,7 @@ body {
 
 /* h1 styles */
 h1 {
-    text-shadow:2px 5p #1b3652;
+    text-shadow: 5px 5px #1b3652;
     background-color: #145DA0;
     color: #fcf5e7;
     font-family: 'Baskerville', 'Courier', 'Garamond', serif;
@@ -15,7 +16,7 @@ h1 {
 
 /* h2 styles */
 h2 {
-    text-shadow:2px 5p #1b3652;
+    text-shadow: 5px 5px #1b3652;
     background-color: #145DA0;
     color: #fcf5e7;
     font-family: 'Baskerville', 'Courier', 'Garamond', serif;
